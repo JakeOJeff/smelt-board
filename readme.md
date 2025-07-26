@@ -1,0 +1,1 @@
+Smeltboard is a inspiration board site.
